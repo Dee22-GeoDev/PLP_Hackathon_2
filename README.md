@@ -7,7 +7,7 @@
 > Build a personal portfolio website that showcases your skills, background, and achievements. The portfolio includes sections like About Me, Educational Background, Projects, Interests, and Contact.
 
 # Project Screenshot image
-![](./![Portfolio_snippet](https://github.com/user-attachments/assets/e1e40624-49c1-4ee1-bfb1-2f26bffd8b00)
+[Portfolio_snippet](https://github.com/user-attachments/assets/e1e40624-49c1-4ee1-bfb1-2f26bffd8b00)
 
 
 ## Link to the live page
@@ -22,7 +22,7 @@
 
 - On the terminal run this command:
   bash
-  git clone https://github.com/Osoro254Alex/plp-portfolio-challenge.git
+  git clone (https://github.com/Dee22-GeoDev/PLP_Hackathon_2.git)
   
 
 - Navigate to the repository folder:
@@ -47,7 +47,7 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues](https://github.com/Osoro254Alex/plp-portfolio-challenge/issues)
+Feel free to check the [issues](https://github.com/Dee22-Geodev/plp-portfolio-challenge/issues)
 
 ## Show your support
 
