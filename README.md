@@ -1,99 +1,64 @@
-Project: Online Exam Platform – PLP Hackathon 2
-In this project, we built:
+![](https://img.shields.io/badge/PLP%20Academy-Portfolio%20Challenge-blueviolet)
 
-A lightweight, accessible online exam platform designed to help learners in rural environments access digital exams.
-The system generates quizzes, allows students to attempt them, and provides instant scores. It also features login/signup functionality, a free tier, and a subscription model for sustainability.
+# Project: PLP Portfolio Website Challenge
 
-🎯 Problem & Solution
+## In this project, you will:
 
-Challenge: Limited access to educational resources and exam preparation tools in rural areas.
+> Build a personal portfolio website that showcases your skills, background, and achievements. The portfolio includes sections like About Me, Educational Background, Projects, Interests, and Contact.
 
-Solution:
-
-A digital exam system optimized for low-resource devices.
-
-Students can sign up / log in, generate an exam, attempt multiple-choice questions, and view results instantly.
-
-Inclusivity: A free version ensures access for all learners.
-
-Sustainability: Two subscription models:
-
-Basic (10 Ksh/month): Unlocks additional exam attempts.
-
-Premium (100 Ksh/month): Unlimited access + advanced analytics.
-
-By balancing accessibility with sustainability, the platform empowers rural learners with affordable and effective exam preparation tools.
-
-🖼️ Project Screenshot
-
-📑 Presentation
-
-Check out the full pitch deck:
-Gamma Presentation Link
-
-🚀 Getting Started
-
-Create a local directory where you want to clone the repository.
-
-Open the terminal in that directory.
-
-Run the command:
-
-git clone https://github.com/Dee22-GeoDev/My_portfolio.git
+# Project Screenshot image
+![](./![Portfolio_snippet](https://github.com/user-attachments/assets/e1e40624-49c1-4ee1-bfb1-2f26bffd8b00)
 
 
-Navigate to the project folder:
+## Link to the live page
 
-cd My_portfolio
+> Feel free to check the [Portfolio-link]((https://magnificent-sunshine-24a3e6.netlify.app/))
 
+## Getting Started
 
-Open index.html in your browser, or use Live Server in your code editor.
+- Create a local directory where you want to clone the repository.
 
-🛠️ Built With
+- Open the terminal or command prompt in the created directory.
 
-HTML
+- On the terminal run this command:
+  bash
+  git clone https://github.com/Osoro254Alex/plp-portfolio-challenge.git
+  
 
-CSS
+- Navigate to the repository folder:
+  bash
+  cd plp-portfolio-challenge
+  
 
-Java
+- Open index.html in your browser or use Live Server in your code editor.
 
-Flask
+## Built with
 
-Lovable ai
+- HTML  
+- CSS  
 
-👥 Team Members & Roles
+## Authors
 
-Damacline Moya – Team Lead – deemoya19@gmail.com
+👤 *Damacline Moya*
 
-Faith Omondi – Frontend Developer – faithomondi20300@gmail.com
+- GitHub: ((https://github.com/Dee22-GeoDev))  
+- LinkedIn: ((https://www.linkedin.com/in/damacline-moya-77870026b/))
 
-Hildah Kwamboka Mogusu – Database – mogusuhm@gmail.com
+## 🤝 Contributing
 
-Collins Kipchumba – Business & Monetisation Strategy – 9098.2024@students.ku.ac.ke
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues](https://github.com/Osoro254Alex/plp-portfolio-challenge/issues)
 
-Esther Mutheu – Presentation & Documentation – mutheuesther990@gmail.com
+## Show your support
 
-🤝 Contributing
+Give a ⭐️ if you like this project!
 
-Contributions, issues, and feature requests are welcome!
-Check the issues page
-.
+## Acknowledgments
 
-⭐ Show Your Support
+- Hat tip to the PLP Academy for this opportunity  
+- Inspiration from previous projects  
+- Appreciation to mentors and Deskies for support
 
-Give this project a ⭐ if you found it inspiring!
-
-🙏 Acknowledgments
-
-Special thanks to PLP Academy for the hackathon opportunity
-
-Inspiration from SDG 4 – Quality Education
-
-Appreciation to mentors and Deskies for guidance
-
-📝 License
-
-This project is MIT
- licensed.
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
