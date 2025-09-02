@@ -7,7 +7,7 @@
 > Build a personal portfolio website that showcases your skills, background, and achievements. The portfolio includes sections like About Me, Educational Background, Projects, Interests, and Contact.
 
 # Project Screenshot image
-[Portfolio_snippet](https://github.com/user-attachments/assets/e1e40624-49c1-4ee1-bfb1-2f26bffd8b00)
+![][Portfolio_snippet](https://github.com/user-attachments/assets/e1e40624-49c1-4ee1-bfb1-2f26bffd8b00)
 
 
 ## Link to the live page
