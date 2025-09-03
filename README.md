@@ -1,4 +1,5 @@
 Online Exam Platform – PLP Hackathon 2
+
 A lightweight, accessible web platform designed to help learners in rural environments access digital exams. The system generates quizzes, allows students to attempt them, and provides instant scores. It includes login/signup functionality, a free tier, and a subscription model to sustain development.
 
 🌟 Features
