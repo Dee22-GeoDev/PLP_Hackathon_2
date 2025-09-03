@@ -69,9 +69,6 @@ Esther Mutheu (mutheuesther990@gmail.com) - Presentation & Documentation
 🔗 Additional Resources
 Presentation Deck: View our pitch presentation
 
-🚀 Getting Started
-[Installation and setup instructions would go here]
-
 📊 Project Sustainability
 The platform combines accessibility with sustainability through its tiered subscription model, ensuring that learners in rural areas can practice exams at minimal cost while supporting ongoing development and maintenance.
 
