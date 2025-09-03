@@ -1,64 +1,78 @@
-![](https://img.shields.io/badge/PLP%20Academy-Portfolio%20Challenge-blueviolet)
+Online Exam Platform – PLP Hackathon 2
+A lightweight, accessible web platform designed to help learners in rural environments access digital exams. The system generates quizzes, allows students to attempt them, and provides instant scores. It includes login/signup functionality, a free tier, and a subscription model to sustain development.
 
-# Project: PLP Portfolio Website Challenge
+🌟 Features
+User Authentication: Secure login/signup system for students
 
-## In this project, you will:
+Exam Generation: Dynamic quiz creation from study materials
 
-> Build a personal portfolio website that showcases your skills, background, and achievements. The portfolio includes sections like About Me, Educational Background, Projects, Interests, and Contact.
+Instant Scoring: Immediate feedback on exam performance
 
-# Project Screenshot image
-![][Portfolio_snippet](https://github.com/user-attachments/assets/e1e40624-49c1-4ee1-bfb1-2f26bffd8b00)
+Multi-tier Access:
 
+Free tier: Basic access to ensure inclusivity
 
-## Link to the live page
+Basic subscription (10 Ksh/month): Additional exam attempts
 
-> Feel free to check the [Portfolio-link]((https://magnificent-sunshine-24a3e6.netlify.app/))
+Premium subscription (100 Ksh/month): Unlimited access with advanced analytics
 
-## Getting Started
+Low-resource Optimized: Works on devices with limited capabilities
 
-- Create a local directory where you want to clone the repository.
+Responsive Design: Accessible on various screen sizes
 
-- Open the terminal or command prompt in the created directory.
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript
 
-- On the terminal run this command:
-  bash
-  git clone (https://github.com/Dee22-GeoDev/PLP_Hackathon_2.git)
-  
+Backend: Python with Flask framework
 
-- Navigate to the repository folder:
-  bash
-  cd plp-portfolio-challenge
-  
+Database: MySQL for data persistence
 
-- Open index.html in your browser or use Live Server in your code editor.
+AI Integration: Hugging Face Question-Answering API for content generation
 
-## Built with
+Authentication: Secure session management
 
-- HTML  
-- CSS  
+📋 How It Works
+User Registration/Login: Students create accounts or sign in to existing ones
 
-## Authors
+Study Material Input: Users can paste their study notes into the system
 
-👤 *Damacline Moya*
+Exam Generation: The platform uses AI to generate relevant quiz questions
 
-- GitHub: ((https://github.com/Dee22-GeoDev))  
-- LinkedIn: ((https://www.linkedin.com/in/damacline-moya-77870026b/))
+Exam Attempt: Students answer multiple-choice questions
 
-## 🤝 Contributing
+Instant Results: Immediate scoring with performance feedback
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues](https://github.com/Dee22-Geodev/plp-portfolio-challenge/issues)
+Progress Tracking: Subscription users access advanced analytics
 
-## Show your support
+🎯 Project Focus & SDG Alignment
+This project directly supports Sustainable Development Goal 4: Quality Education by:
 
-Give a ⭐️ if you like this project!
+Increasing accessibility to educational resources in rural areas
 
-## Acknowledgments
+Providing affordable testing platforms for underserved communities
 
-- Hat tip to the PLP Academy for this opportunity  
-- Inspiration from previous projects  
-- Appreciation to mentors and Deskies for support
+Enabling practice and self-assessment opportunities
 
-## 📝 License
+Supporting digital literacy development
 
-This project is [MIT](./LICENSE) licensed.
+👥 Team Members
+Damacline Moya (deemoya19@gmail.com) - Team Lead
+
+Faith Omondi (faithomondi20300@gmail.com) - Frontend Developer
+
+Hildah Kwamboka Mogusu (mogusuhm@gmail.com) - Database
+
+Collins Kipchumba (9098.2024@students.ku.ac.ke) - Business & Monetisation Strategy
+
+Esther Mutheu (mutheuesther990@gmail.com) - Presentation & Documentation
+
+🔗 Additional Resources
+Presentation Deck: View our pitch presentation
+
+🚀 Getting Started
+[Installation and setup instructions would go here]
+
+📊 Project Sustainability
+The platform combines accessibility with sustainability through its tiered subscription model, ensuring that learners in rural areas can practice exams at minimal cost while supporting ongoing development and maintenance.
+
+Developed for the PLP Hackathon 2 with a focus on Quality Education (SDG 4)
