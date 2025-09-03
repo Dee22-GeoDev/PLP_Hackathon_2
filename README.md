@@ -14,9 +14,9 @@ Multi-tier Access:
 
 Free tier: Basic access to ensure inclusivity
 
-Basic subscription (10 Ksh/month): Additional exam attempts
+Basic subscription (2000 Ksh/month): Additional exam attempts
 
-Premium subscription (100 Ksh/month): Unlimited access with advanced analytics
+Premium subscription (10000 Ksh/month): Unlimited access with advanced analytics
 
 Low-resource Optimized: Works on devices with limited capabilities
 
