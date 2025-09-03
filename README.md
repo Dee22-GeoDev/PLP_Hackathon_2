@@ -3,6 +3,7 @@ Online Exam Platform – PLP Hackathon 2
 A lightweight, accessible web platform designed to help learners in rural environments access digital exams. The system generates quizzes, allows students to attempt them, and provides instant scores. It includes login/signup functionality, a free tier, and a subscription model to sustain development.
 
 🌟 Features
+
 User Authentication: Secure login/signup system for students
 
 Exam Generation: Dynamic quiz creation from study materials
@@ -22,6 +23,7 @@ Low-resource Optimized: Works on devices with limited capabilities
 Responsive Design: Accessible on various screen sizes
 
 🛠️ Tech Stack
+
 Frontend: HTML5, CSS3, JavaScript
 
 Backend: Python with Flask framework
@@ -33,6 +35,7 @@ AI Integration: Hugging Face Question-Answering API for content generation
 Authentication: Secure session management
 
 📋 How It Works
+
 User Registration/Login: Students create accounts or sign in to existing ones
 
 Study Material Input: Users can paste their study notes into the system
@@ -46,6 +49,7 @@ Instant Results: Immediate scoring with performance feedback
 Progress Tracking: Subscription users access advanced analytics
 
 🎯 Project Focus & SDG Alignment
+
 This project directly supports Sustainable Development Goal 4: Quality Education by:
 
 Increasing accessibility to educational resources in rural areas
@@ -57,6 +61,7 @@ Enabling practice and self-assessment opportunities
 Supporting digital literacy development
 
 👥 Team Members
+
 Damacline Moya (deemoya19@gmail.com) - Team Lead
 
 Faith Omondi (faithomondi20300@gmail.com) - Frontend Developer
@@ -68,9 +73,11 @@ Collins Kipchumba (9098.2024@students.ku.ac.ke) - Business & Monetisation Strate
 Esther Mutheu (mutheuesther990@gmail.com) - Presentation & Documentation
 
 🔗 Additional Resources
+
 Presentation Deck: View our pitch presentation
 
 📊 Project Sustainability
+
 The platform combines accessibility with sustainability through its tiered subscription model, ensuring that learners in rural areas can practice exams at minimal cost while supporting ongoing development and maintenance.
 
 Developed for the PLP Hackathon 2 with a focus on Quality Education (SDG 4)
